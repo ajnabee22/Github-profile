@@ -8,6 +8,8 @@
 * 💻 Tech enthusiast, problem solving & loves gadgets.
 
 * 💡 Always open to collaborating on projects and innovative ideas. 
+   
+* 💬 Ask me about anything ,happy to help!
 
 * 📚 Currently working on some projects and learning [Web3 Development](https://en.wikipedia.org/wiki/Web3).
 
