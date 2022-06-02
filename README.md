@@ -8,12 +8,18 @@
 * 💻 Tech enthusiast, problem solving & loves gadgets.
 
 * 💡 Always open to collaborating on projects and innovative ideas. 
-   
-* 💬 Ask me about anything ,happy to help!
 
 * 📚 Currently working on some projects and learning [Web3 Development](https://en.wikipedia.org/wiki/Web3).
 
-Besides coding,I like being fit though bit foody sometimes;love going gym and play Cricket. I love spending time with my loved ones and friends.Like to know about different cultures of the world and visit places at times.
+* 💬 Ask me about anything ,happy to help!
+
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
+
+
+Besides coding,I like being fit though bit foody sometimes;love going gym and play sports. I love spending time with my loved ones and friends.Like to know about different cultures of the world and visit places at times.
 ---
 
 ## 🛰 Tech Stack
