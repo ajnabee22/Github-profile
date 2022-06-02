@@ -1,4 +1,5 @@
-# Hey!! Great to see you here!I am Vishal Kumar Anand <img src="namaste-covid.gif" width="30px">
+<img src="namaste-covid.gif" width="20px">
+# Hey!! Great to see you here!I am Vishal Kumar Anand 
 
 
 * 🏢 Pursuing my Bachelor's in Computer Science and Engineering from [Indian Institute of Information Technology Vadodara](http://www.iiitvadodara.ac.in/). 
