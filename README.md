@@ -16,7 +16,7 @@
 <a href="https://www.linkedin.com/in/vishal-kumar-anand-961302206/" target="blank"><img src="icons8-linkedin.svg"></a>
 <a href="https://twitter.com/Vishal_K_Anand" target="blank"><img src="icons8-twitter.svg"></a>
 <a href="https://www.facebook.com/vishal.kumaranand.79/" target="blank"><img src="icons8-facebook.svg"></a>
-<a href="https://www.instagram.com/_v.k.anand_//" target="blank"><img src="icons8-instagram.svg"></a>
+<a href="https://www.instagram.com/_v.k.anand_/" target="blank"><img src="icons8-instagram.svg"></a>
 
 
 
