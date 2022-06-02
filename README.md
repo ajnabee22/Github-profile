@@ -1,4 +1,4 @@
-<img src="namaste-covid.gif" width="20px">
+<img src="namaste-covid.gif" width="20px" >
 
 # Hey!! Great to see you here!
 
@@ -13,10 +13,7 @@
 
 * 💬 Ask me about anything ,happy to help!
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
+<a href="https://www.linkedin.com/in/vishal-kumar-anand-961302206/" target="blank"><img src="https://www.iconfinder.com/icons/5296765/camera_instagram_instagram_logo_icon" height="22" width="22"></a>
 
 
 Besides coding,I like being fit though bit foody sometimes;love going gym and play sports. I love spending time with my loved ones and friends.Like to know about different cultures of the world and visit places at times.
