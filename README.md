@@ -13,7 +13,11 @@
 
 * 💬 Ask me about anything ,happy to help!
 
-<a href="https://www.linkedin.com/in/vishal-kumar-anand-961302206/" target="blank"><img src="icons8-facebook.svg" height="22" width="22"></a>
+<a href="https://www.linkedin.com/in/vishal-kumar-anand-961302206/" target="blank"><img src="icons8-linkedin.svg"></a>
+<a href="https://twitter.com/Vishal_K_Anand" target="blank"><img src="icons8-twitter.gif"></a>
+<a href="https://www.facebook.com/vishal.kumaranand.79/" target="blank"><img src="icons8-facebook.svg"></a>
+<a href="https://www.instagram.com/_v.k.anand_//" target="blank"><img src="icons8-instagram.svg"></a>
+
 
 
 Besides coding,I like being fit though bit foody sometimes;love going gym and play sports. I love spending time with my loved ones and friends.Like to know about different cultures of the world and visit places at times.
