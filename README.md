@@ -48,7 +48,7 @@ Besides coding,I like being fit though bit foody sometimes;love going gym and pl
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 
-### 🛠 Tools & PlatformsS
+### 🛠 Tools & Platforms
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
