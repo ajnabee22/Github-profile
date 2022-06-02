@@ -1,5 +1,5 @@
-# Hey!! Great to see you here! <img src="hi.gif" width="30px">
-# I am Vishal Kumar Anand
+# Hey!! Great to see you here!I am Vishal Kumar Anand <img src="https://tenor.com/view/namaste-covid-covid19-hand-shake-no-handshake-gif-16705107" width="30px">
+
 
 * 🏢 Pursuing my Bachelor's in Computer Science and Engineering from [Indian Institute of Information Technology Vadodara](http://www.iiitvadodara.ac.in/). 
 
@@ -7,20 +7,18 @@
 
 * 💡 Always open to collaborating on projects and innovative ideas. 
 
-* 📚 Currently learning [Web3 Development](https://en.wikipedia.org/wiki/Web3).
+* 📚 Currently working on some projects and learning [Web3 Development](https://en.wikipedia.org/wiki/Web3).
 
-Apart from coding, I am health concious & you will find me playing some sports or in gym. I love to spend time with my loved ones and friends. Sometimes, I do skecthing too!
-
+Besides coding,I like being fit;love going gym and play Cricket. I love spending time with my loved ones and friends.
 ---
 
 ## 🛰 Tech Stack
 
 ### ⌨ Languages
 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=bootstrap&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Solidity](https://img.shields.io/badge/%20-Solidity-lightgrey)
 ![SQL](https://img.shields.io/badge/%20-SQL-green)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -43,7 +41,8 @@ Apart from coding, I am health concious & you will find me playing some sports o
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ## 📈 Stats
 
