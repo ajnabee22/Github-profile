@@ -1,5 +1,6 @@
 <img src="namaste-covid.gif" width="20px">
-# Hey!! Great to see you here!I am Vishal Kumar Anand 
+
+# Hey!! Great to see you here!
 
 
 * 🏢 Pursuing my Bachelor's in Computer Science and Engineering from [Indian Institute of Information Technology Vadodara](http://www.iiitvadodara.ac.in/). 
@@ -10,7 +11,7 @@
 
 * 📚 Currently working on some projects and learning [Web3 Development](https://en.wikipedia.org/wiki/Web3).
 
-Besides coding,I like being fit;love going gym and play Cricket. I love spending time with my loved ones and friends.
+Besides coding,I like being fit though bit foody sometimes;love going gym and play Cricket. I love spending time with my loved ones and friends.Like to know about different cultures of the world and visit places at times.
 ---
 
 ## 🛰 Tech Stack
