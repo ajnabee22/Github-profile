@@ -3,13 +3,13 @@
 # Hey!! Great to see you here!
 
 
-* 🏢 Pursuing my Bachelor's in Computer Science and Engineering from [Indian Institute of Information Technology Vadodara](http://www.iiitvadodara.ac.in/). 
+* 🏢 B.Tech. in Computer Science and Engineering from [Indian Institute of Information Technology Vadodara](http://www.iiitvadodara.ac.in/). 
 
 * 💻 Tech enthusiast, problem solving & loves gadgets.
 
 * 💡 Always open to collaborating on projects and innovative ideas. 
 
-* 📚 Currently working on some projects and learning [Web3 Development](https://en.wikipedia.org/wiki/Web3).
+* 📚 Currently working in Yatra Online Limited as Software Engineer using Angular and dotnet technologies.
 
 * 💬 Ask me about anything ,happy to help!
 
@@ -55,7 +55,6 @@ Besides coding,I like being fit though bit foody sometimes;love going gym and pl
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ## 📈 Stats
 
